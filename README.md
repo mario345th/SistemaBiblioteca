@@ -1,6 +1,6 @@
-
 # SistemaBiblioteca
 Versión estable del proyecto.
 ---
 ## Módulo en desarrollo
-El módulo de inicio de sesión ha sido integrado correctamente a la versión estable del proyecto.
+Se realizaron mejoras al módulo de inicio de sesión para optimizar el proceso de autenticación de usuarios.
+
